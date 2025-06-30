@@ -3,3 +3,5 @@ Página Inicial
 Inserir titulo
 
 Criar formulário
+
+Imprimi dados
